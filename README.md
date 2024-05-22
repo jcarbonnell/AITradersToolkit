@@ -6,11 +6,11 @@
 
 ## Description
 
-The AI Trader's Toolkit aims to provide rookie traders, students and AI beginners with an educative dashboard to learn AI-assisted financial analysis. It will propose a series of modules (widgets) for streaming financial data from stock and crypto markets, and ploting the results from different forcasting models. With this modular dashboard, the user will be able to compare, learn and test financial strategies strategies and AI models in the most visual way. 
+The AI Trader's Toolkit aims to provide rookie traders, students, and AI beginners with an educative dashboard to learn AI-assisted financial analysis. It will propose a series of modules (widgets) for streaming financial data from stock and crypto markets, and plotting the results from different forecasting models. With this modular dashboard, the user will be able to compare, learn, and test financial strategies and AI models in the most visual way. 
 
-This project fo not aim to compete with professional trading platforms, we focus on education to AI and finance, model interpretability and open science.
+This project does not aim to compete with professional trading platforms, it focuses on education to AI and finance, model interpretability and open science.
 
-In the highly volatile crypto markets, mastering financial analytics, portfolio management, being tooled to select which forecasting techniques works best for your market, and understanding the intricacies of AI for predictive modeling is a matter of public interest. A comprehensive dashboard where users can access a series of interactive widgets, crafted to facilitate step-by-step learning and experimentation is a precious public good.
+In the highly volatile crypto markets, mastering financial analytics and portfolio management techniques, knowing which forecasting model works best for your market, and understanding the intricacies of predictive AI is a matter of public interest. Our comprehensive dashboard crafted to facilitate step-by-step learning and experimentation aims to become a precious public good.
 
 The AI Trader's Toolkit started as a course project within the [Advanced Time Series Prediction at opencampus.sh](https://edu.opencampus.sh/en/course/478). 
 
