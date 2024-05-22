@@ -12,6 +12,7 @@ This project fo not aim to compete with professional trading platforms, we focus
 
 In the highly volatile crypto markets, mastering financial analytics, portfolio management, being tooled to select which forecasting techniques works best for your market, and understanding the intricacies of AI for predictive modeling is a matter of public interest. A comprehensive dashboard where users can access a series of interactive widgets, crafted to facilitate step-by-step learning and experimentation is a precious public good.
 
+The AI Trader's Toolkit started as a course project within the [Advanced Time Series Prediction at opencampus.sh](https://edu.opencampus.sh/en/course/478). 
 
 ### Task Type
 
